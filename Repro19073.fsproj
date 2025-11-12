@@ -6,6 +6,7 @@
     <DisableImplicitFSharpCoreReference>true</DisableImplicitFSharpCoreReference>
     <NoWarn>FS0075</NoWarn>
     <OtherFlags>--times</OtherFlags>
+	<Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
